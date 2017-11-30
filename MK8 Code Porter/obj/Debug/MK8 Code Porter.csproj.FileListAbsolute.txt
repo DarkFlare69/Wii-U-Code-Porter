@@ -1,0 +1,19 @@
+D:\VS\MK8 Code Porter\MK8 Code Porter\obj\Debug\MK8_Code_Porter.Form1.resources
+D:\VS\MK8 Code Porter\MK8 Code Porter\obj\Debug\MK8 Code Porter.csproj.GenerateResource.Cache
+D:\VS\MK8 Code Porter\MK8 Code Porter\obj\Debug\MK8 Code Porter.csproj.CoreCompileInputs.cache
+D:\VS\MK8 Code Porter\MK8 Code Porter\bin\Debug\Wii U Code Porter.exe.config
+D:\VS\MK8 Code Porter\MK8 Code Porter\bin\Debug\Wii U Code Porter.exe
+D:\VS\MK8 Code Porter\MK8 Code Porter\bin\Debug\Wii U Code Porter.pdb
+D:\VS\MK8 Code Porter\MK8 Code Porter\obj\Debug\MK8 Code Porter.csprojResolveAssemblyReference.cache
+D:\VS\MK8 Code Porter\MK8 Code Porter\obj\Debug\Wii_U_Code_Porter.Properties.Resources.resources
+D:\VS\MK8 Code Porter\MK8 Code Porter\obj\Debug\Wii U Code Porter.exe
+D:\VS\MK8 Code Porter\MK8 Code Porter\obj\Debug\Wii U Code Porter.pdb
+D:\VS\Wii U Code Porter\MK8 Code Porter\bin\Debug\Wii U Code Porter.exe.config
+D:\VS\Wii U Code Porter\MK8 Code Porter\bin\Debug\Wii U Code Porter.exe
+D:\VS\Wii U Code Porter\MK8 Code Porter\bin\Debug\Wii U Code Porter.pdb
+D:\VS\Wii U Code Porter\MK8 Code Porter\obj\Debug\MK8_Code_Porter.Form1.resources
+D:\VS\Wii U Code Porter\MK8 Code Porter\obj\Debug\Wii_U_Code_Porter.Properties.Resources.resources
+D:\VS\Wii U Code Porter\MK8 Code Porter\obj\Debug\MK8 Code Porter.csproj.GenerateResource.Cache
+D:\VS\Wii U Code Porter\MK8 Code Porter\obj\Debug\MK8 Code Porter.csproj.CoreCompileInputs.cache
+D:\VS\Wii U Code Porter\MK8 Code Porter\obj\Debug\Wii U Code Porter.exe
+D:\VS\Wii U Code Porter\MK8 Code Porter\obj\Debug\Wii U Code Porter.pdb
